@@ -1,11 +1,10 @@
 import React from "react";
-import './App.css';
+import style from './App.module.scss'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <div className={style.rock}>Lets Rock! 🤘</div>
     </div>
   );
 }
