@@ -25,6 +25,8 @@ You will also see any lint errors in the console.
 * "Previous" button MUST be present.
 * Click on the "Previous" button MUST displays 10 previous users.
 * Current table page number MUST be shown.
+* Changing the page SHOULD update the URL with the current page number.
+* If the URL contains a page number you SHOULD fetch this page from the endpoint.
 * Application MUST be extendable.
 * Application SHOULD be tested.
 * You MAY implement you own design.
