@@ -21,7 +21,7 @@ You will also see any lint errors in the console.
 * The fetching process MUST be indicated to the user.
 * Fetched user information MUST be preserved in the redux store. 
 * "Next" button MUST be present.
-* Click on the "Next" button MUST fetch next 10 users. (Pegination)
+* Click on the "Next" button MUST fetch next 10 users. (Pagination)
 * "Previous" button MUST be present.
 * Click on the "Previous" button MUST displays 10 previous users.
 * Current table page number MUST be shown.
