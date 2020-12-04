@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ## Requirements
 * Application MUST include HTML Table with max. 10 rows of user information at the time.
 * Users information MUST be fetched from: [randomuser.me](https://randomuser.me/)
-* Each row MUST contain the following user information: First Name, Last Name, Gender, Nick Name, Date of Registration.
+* Each row MUST contain the following user information: First Name, Last Name, Gender, User Name, Date of Registration.
 * The fetching process MUST be indicated to the user.
 * Fetched user information MUST be preserved in the redux store. 
 * "Next" button MUST be present.
