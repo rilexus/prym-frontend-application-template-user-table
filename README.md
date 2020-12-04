@@ -28,7 +28,7 @@ You will also see any lint errors in the console.
 * Changing the page SHOULD update the URL with the current page number.
 * If the URL contains a page number you SHOULD fetch this page from the endpoint.
 * Application MUST be extendable.
-* Application SHOULD be tested.
+* Application MUST be tested.
 * You MAY implement you own design.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
